@@ -1,7 +1,24 @@
 /* Add your code in each class */
 .container {
+  width: 400px;
+  height: 300px;
+  position: relative;
+  overflow: scroll;
 }
 .head {
+  background-color: tomato;
+  color: antiquewhite;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  position: sticky;
+
+}
+.list{
+  background-color: bisque;
+  font-size: smaller;
+  padding: 7px;
+  font-family: Arial, Helvetica, sans-serif;
+  
 }
 
 .row {
