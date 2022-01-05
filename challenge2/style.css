@@ -1,0 +1,39 @@
+
+.big{
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 100vw;
+  height: 100vh;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+    height: 300px;
+background-color: whitesmoke;
+border-radius: 5px;
+-webkit-box-shadow: 5px 5px 11px 5px rgba(0,0,0,0.32); 
+box-shadow: 5px 5px 11px 5px rgba(0,0,0,0.32);
+text-align: center;
+justify-content: center;
+padding: 20px;
+align-items: center;
+
+
+}
+
+.image{
+border-radius: 50px;
+width: 100px;
+}
+
+.header{
+
+}
+
+.parag{
+font-size: smaller;
+
+}
